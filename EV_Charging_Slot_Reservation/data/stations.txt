@@ -1,0 +1,3 @@
+1|GreenCharge Central|City Centre Mall, Block A|3|DC Fast|6|22
+2|VoltPoint Highway|NH-5 Highway Plaza|4|AC Type2|0|24
+3|EcoPlug Campus|University Main Gate|2|AC Type2|8|20
